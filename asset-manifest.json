@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/goit_homeworks/static/css/main.76285caa.chunk.css",
-    "main.js": "/goit_homeworks/static/js/main.55010110.chunk.js",
-    "main.js.map": "/goit_homeworks/static/js/main.55010110.chunk.js.map",
-    "runtime-main.js": "/goit_homeworks/static/js/runtime-main.4bb3c869.js",
-    "runtime-main.js.map": "/goit_homeworks/static/js/runtime-main.4bb3c869.js.map",
-    "static/js/2.e3957cd1.chunk.js": "/goit_homeworks/static/js/2.e3957cd1.chunk.js",
-    "static/js/2.e3957cd1.chunk.js.map": "/goit_homeworks/static/js/2.e3957cd1.chunk.js.map",
-    "static/js/3.81427a8a.chunk.js": "/goit_homeworks/static/js/3.81427a8a.chunk.js",
-    "static/js/3.81427a8a.chunk.js.map": "/goit_homeworks/static/js/3.81427a8a.chunk.js.map",
-    "index.html": "/goit_homeworks/index.html",
-    "static/css/main.76285caa.chunk.css.map": "/goit_homeworks/static/css/main.76285caa.chunk.css.map",
-    "static/js/2.e3957cd1.chunk.js.LICENSE.txt": "/goit_homeworks/static/js/2.e3957cd1.chunk.js.LICENSE.txt"
+    "main.css": "/goit_homeworks/01/build/index.html/static/css/main.76285caa.chunk.css",
+    "main.js": "/goit_homeworks/01/build/index.html/static/js/main.3bf50c53.chunk.js",
+    "main.js.map": "/goit_homeworks/01/build/index.html/static/js/main.3bf50c53.chunk.js.map",
+    "runtime-main.js": "/goit_homeworks/01/build/index.html/static/js/runtime-main.ee1465ad.js",
+    "runtime-main.js.map": "/goit_homeworks/01/build/index.html/static/js/runtime-main.ee1465ad.js.map",
+    "static/js/2.1b3c60eb.chunk.js": "/goit_homeworks/01/build/index.html/static/js/2.1b3c60eb.chunk.js",
+    "static/js/2.1b3c60eb.chunk.js.map": "/goit_homeworks/01/build/index.html/static/js/2.1b3c60eb.chunk.js.map",
+    "static/js/3.81427a8a.chunk.js": "/goit_homeworks/01/build/index.html/static/js/3.81427a8a.chunk.js",
+    "static/js/3.81427a8a.chunk.js.map": "/goit_homeworks/01/build/index.html/static/js/3.81427a8a.chunk.js.map",
+    "index.html": "/goit_homeworks/01/build/index.html/index.html",
+    "static/css/main.76285caa.chunk.css.map": "/goit_homeworks/01/build/index.html/static/css/main.76285caa.chunk.css.map",
+    "static/js/2.1b3c60eb.chunk.js.LICENSE.txt": "/goit_homeworks/01/build/index.html/static/js/2.1b3c60eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bb3c869.js",
-    "static/js/2.e3957cd1.chunk.js",
+    "static/js/runtime-main.ee1465ad.js",
+    "static/js/2.1b3c60eb.chunk.js",
     "static/css/main.76285caa.chunk.css",
-    "static/js/main.55010110.chunk.js"
+    "static/js/main.3bf50c53.chunk.js"
   ]
 }
